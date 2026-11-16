@@ -54,7 +54,7 @@
   var introLines = [
     { t: '▶ npx @anurag-kartik/portfolio#build', c: 'cmd' },
     { t: "  … loading 'experience', 'projects' & static routes", c: 'out' },
-    { t: '  … running parallel: kafka · graphql · aws (tree-shake)', c: 'out' },
+    { t: '  … running parallel: react · graphql · kafka · aws', c: 'out' },
     { t: "  … generating responsive UI bundle — 12 chunks", c: 'out' }
   ];
 
